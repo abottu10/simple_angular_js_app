@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Company1",
+    "phoneNumber": 1234567890,
+    "effectiveDate": "2018-01-02",
+    "terminationDate": "2020-01-02",
+    "state": "SC"
+  },
+  {
+    "name": "Company1",
+    "phoneNumber": 1234567890,
+    "effectiveDate": "2018-01-02",
+    "terminationDate": "2020-01-02",
+    "state": "SC"
+  },
+  {
+    "name": "Company2",
+    "phoneNumber": 2345678901,
+    "effectiveDate": "2000-02-04",
+    "terminationDate": "2030-02-05",
+    "state": "SC"
+  },
+  {
+    "name": "Company3",
+    "phoneNumber": 3456789012,
+    "effectiveDate": "2010-01-02",
+    "terminationDate": "2025-01-02",
+    "state": "LA"
+  },
+  {
+    "name": "Company4",
+    "phoneNumber": 4567890123,
+    "effectiveDate": "2009-01-02",
+    "terminationDate": "2019-12-31",
+    "state": "CA"
+  }
+]
